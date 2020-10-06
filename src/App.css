@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background: url('./assets/pexels-photo-1118873.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
